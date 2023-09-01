@@ -1,7 +1,7 @@
 <div align="center">
 <h3><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello!  Moin! 恁好! Bonjour!  नमस्ते!  Buon giorno! 今日は!</h3>
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=535&lines=I'm+Valeriia+Kulikova+💻+FrontEnd+Web+Developer!)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=535&lines=I'm+Valeriia+💻+FrontEnd+Web+Developer!)](https://git.io/typing-svg)
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ValeriaKulikova&label=Profile%20views&color=blueviolet&style=flat" alt="ValeriaKulikova" /> </p>
 </div>
@@ -23,10 +23,10 @@ Initial front-end developer recently graduated, experience supporting and creati
 
 ### **💻 🔭 Hard Skills**
 
-● Frontend-Basic : HTML/HTML5 _ CSS/SCSS _ Javascript _ Responsive Design _ Bootstrap _ Typescript _ Node.js ... <br/>
-● Frontend-Prof : React _ Redux _ Rest API _ GraphQL _ Gulp _ Webpack ...<br/>
-● Database : MySQL _ MongoDB _ PostgreSQL ... <br/>
-● PM Tools : Git _ Github _ Linux _ Trello _ VS Code _ IntelliJ ... <br/>
+● Frontend-Basic : HTML/HTML5 | CSS/SCSS | Javascript | Responsive Design | Bootstrap | Typescript | Node.js ... <br/>
+● Frontend-Prof : React | Redux | Rest API ...<br/>
+● Database : MySQL | MongoDB | PostgreSQL ... <br/>
+● PM Tools : Git | Github | Linux | VS Code | IntelliJ ... <br/>
 ● Others : Figma ...<br/>
 👉 📖... learning continues<br/><br/>
 
