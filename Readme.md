@@ -50,12 +50,16 @@ Initial front-end developer recently graduated, experience supporting and creati
 </div>
 
 </div>
+
+### :fire: My Stats : 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ValeriaKul&theme=highcontrast)](https://git.io/streak-stats) 
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ValeriaKul&show_icons=true&locale=en&layout=compact" width="240"
         height="150" alt=""/>
 <img src="https://github-readme-stats.vercel.app/api?username=ValeriaKul&show_icons=true&locale=en" width="270" height="150"
         />
-
 </div>
 
 ### **🙋‍♂️ 🤝 Soft Skills**
