@@ -90,7 +90,7 @@ Initial front-end developer recently graduated, experience supporting and creati
 ### **🌐 🌱 Languages**
 
 - English - A2 (I learn English and improve my lever)
-- Spanish - A2
+- Portuguese - B2
 - Russian - native
 - Ukrainian - native
   <br/><br/>
