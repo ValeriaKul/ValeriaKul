@@ -1,20 +1,20 @@
 <div align="center">
-<h3><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello!  Moin! 恁好! Bonjour!  नमस्ते!  Buon giorno! 今日は!</h3>
+<h3><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello! Привіт! Olá! Привет!</h3>
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=535&lines=I'm+Valeriia+💻+FrontEnd+Web+Developer!)](https://git.io/typing-svg)
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ValeriaKulikova&label=Profile%20views&color=blueviolet&style=flat" alt="ValeriaKulikova" /> </p>
 </div>
 
-### **📧 📲 Contact Info**
+<!--  ### **📧 📲 Contact Info**
 
 <div align="left">
 
-**Portfolio:** [Valeriia Kulikova](https://valeriakul.github.io/portfolio/) <br/>
+**Portfolio:** [Valeriia Kulikova](https://valeriakul.github.io/portfolio/) <br/> 
 **E-mail:** airelav.vk@gmail.com <br/>
 **Telegram:** [Valeriia_Kuli](https://t.me/Valeriia_Kuli) <br/>
 **GitHub:** [ValeriaKul](https://github.com/ValeriaKul) <br/>
-**Linkedin:** [Valeriia Kulikova](https://www.linkedin.com/in/valeriiakulikova/)</div>
+**Linkedin:** [Valeriia Kulikova](https://www.linkedin.com/in/valeriiakulikova/)</div> -->
 
 ### **🗂 🗄 Summary**
 
